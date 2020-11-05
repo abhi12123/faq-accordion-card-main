@@ -1,0 +1,33 @@
+body{
+	background-color: grey;
+}
+#white-box{
+	background-color: white;
+	margin: 18.0555556%;
+	margin-top: 130px;
+}
+#left-half{
+	display: inline-block;
+	width: 50%;
+	background-color: yellow;
+	float: left;
+	position: relative;
+}
+#right-half{
+	display: inline-block;
+	width: 50%;
+	float: right;
+	background-color: orange;
+}
+p{
+	background-color: white
+}
+img{
+	
+}
+#bg-pattern-desktop{
+	width: 100%;
+}
+.answer{
+	display:none;
+}
